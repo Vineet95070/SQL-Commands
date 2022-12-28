@@ -1,0 +1,8 @@
+CREATE TABLE My_Name
+(
+
+   T_Code INT NOT NULL AUTO_INCREMENT,
+   T_Name VARCHAR(50) NOT NULL,
+   PRIMARY KEY(T_Code)
+
+);

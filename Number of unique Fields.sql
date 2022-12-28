@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT city) AS Student_From FROM practice.school;

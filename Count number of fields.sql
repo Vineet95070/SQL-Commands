@@ -1,0 +1,1 @@
+SELECT MAX(pin) AS pin FROM practice.school;
